@@ -1,0 +1,6 @@
+Estado de Cuenta
+------------------------
+Monto total de contado: 0
+Monto total de interes: 0
+Cashback: 0
+Monto Final: 0
